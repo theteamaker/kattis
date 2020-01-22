@@ -1,6 +1,7 @@
 ## Finished Problems
 
-| Problem    | Solutions            |
+| Problem    | Solutions |
+-------------|---------- |
 | abc        | [Python](./python/abc) |
 | autori     | [Python](./python/autori) |
 | batterup   | [Python](./python/batterup) |
