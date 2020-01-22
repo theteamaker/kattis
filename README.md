@@ -5,8 +5,8 @@
   
   <tr><td>
 
-| Problem     | Solutions |
-|-------------|---------- |
+| Problem     |
+|-------------|
 | [abc](./python/abc) |
 | [autori](./python/autori) |
 | [batterup](./python/batterup) |
@@ -22,16 +22,16 @@
 
 </td><td>
 
-| Problem     | Solutions |
-|-------------|---------- |
+| Problem     |
+|-------------|
 | [numberfun](./lua/numberfun) |
 | [quickestimate](./lua/quickestimate) |
 | [sevenwonders](./lua/sevenwonders) |
 
 </td><td>
   
-| Problem | Solutions |
-| ------- | --------- |
+| Problem |
+| ------- |
 | [autori](./rust/autori)|
 | [filip](./rust/filip) |
 
