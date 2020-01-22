@@ -5,7 +5,7 @@
 | abc        | [Python](./python/abc) |
 | autori     | [Python](./python/autori) |
 | batterup   | [Python](./python/batterup) |
-| cetvrta    | [Python](./python/cetvrta |
+| cetvrta    | [Python](./python/cetvrta) |
 | filip      | [Python](./python/filip) |
 | nastyhacks | [Python](./python/nastyhacks) |
 | pet        | [Python](./python/pet) |
