@@ -1,6 +1,9 @@
 ## Finished Problems
 
-# Python
+<table>
+  <tr><th>Python</th><th>Lua</th><th>Rust</th></tr>
+  
+  <tr><td>
 
 | Problem     | Solutions |
 |-------------|---------- |
@@ -17,7 +20,7 @@
 | timeloop   | [Python](./python/timeloop) |
 | twostones  | [Python](./python/twostones) | 
 
-# Lua
+</td><td>
 
 | Problem     | Solutions |
 |-------------|---------- |
@@ -25,9 +28,11 @@
 | quickestimate | [Lua](./lua/quickestimate) |
 | sevenwonders | [Lua](./lua/sevenwonders) |
 
-# Rust
-
+</td><td>
+  
 | Problem | Solutions |
 | ------- | --------- |
 | autori | [Rust](./rust/autori)|
 | filip | [Rust](./rust/filip) |
+
+</td></tr> </table>
