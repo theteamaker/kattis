@@ -28,6 +28,6 @@
 # Rust
 
 | Problem | Solutions |
-| ------- | - - -- - -|
+| ------- | --------- |
 | autori | [Rust](./rust/autori)|
 | filip | [Rust](./rust/filip) |
