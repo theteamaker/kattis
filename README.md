@@ -35,5 +35,6 @@
 | [autori](./rust/autori)|
 | [filip](./rust/filip) |
 | [aboveaverage](./rust/aboveaverage) |
+| [chopin](./rust/chopin) |
 
 </td></tr> </table>
