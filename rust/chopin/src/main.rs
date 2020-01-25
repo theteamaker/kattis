@@ -24,7 +24,13 @@ fn main() {
         let str_line: &str = &line[..];
 
         match replacements.get(str_line) {
-            Option::None => println!("Case {}: UNIQUE", counter),
+            Option::None => {
+                match replacements.iter().find_map(|(key, &val)| if val == str_line { Some(key) } else { None }) {
+                Option::None => println!("Case {}: UNIQUE", counter),
+                Option::Some(i) => println!("Case {}: {}", counter, i),
+                }
+            },
+
             Option::Some(i) => println!("Case {}: {}", counter, i),
         }
 
