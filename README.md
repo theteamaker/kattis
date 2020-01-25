@@ -36,5 +36,6 @@
 | [filip](./rust/filip) |
 | [aboveaverage](./rust/aboveaverage) |
 | [chopin](./rust/chopin) |
+| [quickbrownfox](./rust/quickbrownfox) |
 
 </td></tr> </table>
