@@ -37,5 +37,6 @@
 | [aboveaverage](./rust/aboveaverage) |
 | [chopin](./rust/chopin) |
 | [quickbrownfox](./rust/quickbrownfox) |
+| [babybites](./rust/babybites) |
 
 </td></tr> </table>
