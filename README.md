@@ -32,7 +32,9 @@
   
 | Problem |
 | ------- |
-| [autori](./rust/autori)|
+| [aaah](./rust/aaah) |
+| [autori](./rust/autori) |
+| [avion](./rust/avion |
 | [filip](./rust/filip) |
 | [aboveaverage](./rust/aboveaverage) |
 | [chopin](./rust/chopin) |
