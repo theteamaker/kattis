@@ -44,5 +44,6 @@
 | [guessinggame](./rust/guessinggame) |
 | [fizzbuzz](./rust/fizzbuzz) |
 | [sumkindofproblem](./rust/sumkindofproblem) |
+| [apaxiaaans](./rust/apaxiaaans) |
 
 </td></tr> </table>
