@@ -19,6 +19,7 @@
 | [tarifa](./python/tarifa) |
 | [timeloop](./python/timeloop) |
 | [twostones](./python/twostones) | 
+| [fizzbuzz](./python/fizzbuzz) |
 
 </td><td>
 
@@ -41,5 +42,6 @@
 | [quickbrownfox](./rust/quickbrownfox) |
 | [babybites](./rust/babybites) |
 | [guessinggame](./rust/guessinggame) |
+| [fizzbuzz](./rust/fizzbuzz) |
 
 </td></tr> </table>
