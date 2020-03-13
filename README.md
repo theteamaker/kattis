@@ -43,5 +43,6 @@
 | [babybites](./rust/babybites) |
 | [guessinggame](./rust/guessinggame) |
 | [fizzbuzz](./rust/fizzbuzz) |
+| [sumkindofproblem](./rust/sumkindofproblem) |
 
 </td></tr> </table>
