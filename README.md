@@ -40,5 +40,6 @@
 | [chopin](./rust/chopin) |
 | [quickbrownfox](./rust/quickbrownfox) |
 | [babybites](./rust/babybites) |
+| [guessinggame](./rust/guessinggame) |
 
 </td></tr> </table>
