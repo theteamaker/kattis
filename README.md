@@ -10,8 +10,10 @@
 | [abc](./python/abc) |
 | [autori](./python/autori) |
 | [batterup](./python/batterup) |
+| [beehives](./python/beehives) |
 | [cetvrta](./python/cetvrta) |
 | [filip](./python/filip) |
+| [fizzbuzz](./python/fizzbuzz) |
 | [nastyhacks](./python/nastyhacks) |
 | [pet](./python/pet) |
 | [qaly](./python/qaly) |
@@ -19,8 +21,6 @@
 | [tarifa](./python/tarifa) |
 | [timeloop](./python/timeloop) |
 | [twostones](./python/twostones) | 
-| [fizzbuzz](./python/fizzbuzz) |
-
 </td><td>
 
 | Problem     |
