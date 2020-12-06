@@ -1,7 +1,7 @@
 ## Finished Problems
 
 <table>
-  <tr><th>Python</th><th>Lua</th><th>Rust</th></tr>
+  <tr><th>Python</th><th>Lua</th><th>Rust</th><th>Go</th></tr>
   
   <tr><td>
 
@@ -45,5 +45,11 @@
 | [fizzbuzz](./rust/fizzbuzz) |
 | [sumkindofproblem](./rust/sumkindofproblem) |
 | [apaxiaaans](./rust/apaxiaaans) |
+
+</td><td>
+
+| Problem |
+| ------- |
+| [anotherbrick](./go/anotherbrick) |
 
 </td></tr> </table>
