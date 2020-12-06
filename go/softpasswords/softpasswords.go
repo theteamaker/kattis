@@ -36,15 +36,7 @@ func main() {
 		}
 	}
 
-	fmt.Println("No")
-}
-
-func appendcheck(str string, i string) string {
-	return (str + i)
-}
-
-func prependcheck(str string, i string) string {
-	return (i + str)
+	fmt.Println("No") // if all checks fail
 }
 
 func uppercheck(str string) string {
