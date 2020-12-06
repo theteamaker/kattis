@@ -52,5 +52,5 @@
 | ------- |
 | [anotherbrick](./go/anotherbrick) |
 | [softpasswords](./go/softpasswords) |
-
+| [bela](./go/bela) |
 </td></tr> </table>
