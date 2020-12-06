@@ -54,5 +54,6 @@
 | [softpasswords](./go/softpasswords) |
 | [bela](./go/bela) |
 | [quiteaproblem](./go/quiteaproblem) |
+| [metaprogramming](./go/metaprogramming) |
 
 </td></tr> </table>
