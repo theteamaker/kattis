@@ -51,5 +51,6 @@
 | Problem |
 | ------- |
 | [anotherbrick](./go/anotherbrick) |
+| [softpasswords](./go/softpasswords) |
 
 </td></tr> </table>
