@@ -1,11 +1,11 @@
 package main
 
 import (
-	"os"
 	"bufio"
+	"fmt"
+	"os"
 	"strconv"
 	"strings"
-	"fmt"
 )
 
 func main() {
@@ -29,7 +29,7 @@ func main() {
 			bricks[len(bricks)-1] = 0
 			bricks = bricks[:len(bricks)-1]
 		}
-		
+
 		switch count {
 		case w:
 			count = 0
