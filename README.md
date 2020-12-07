@@ -55,5 +55,6 @@
 | [bela](./go/bela) |
 | [quiteaproblem](./go/quiteaproblem) |
 | [metaprogramming](./go/metaprogramming) |
+| [textureanalysis](./go/textureanalysis) |
 
 </td></tr> </table>
