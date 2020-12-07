@@ -8,11 +8,6 @@ import (
 	"strings"
 )
 
-type definition struct {
-	name  string
-	value int
-}
-
 func main() {
 	scanner := bufio.NewScanner(os.Stdin)
 	defined := make(map[string]int)
